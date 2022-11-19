@@ -22,9 +22,7 @@ design:
 #   css_class: fullscreen
 ---
 
-**Hi! Welcome to my Homepage, I am Yves, I have broad interest in Plasma Physics, Mathematics, Computer Sciences, History, Movies and Sleeping**
-
-**But I will try to keep this website only for Plasma Physics and My personal Projects! Please don't hesitate to contact me if you need a new friend. Enjoy!**
+*Hi! Welcome to my Homepage, I am Yves, I have broad interest in Plasma Physics, Computer Sciences, History and  Movies. Please don't hesitate to contact me if you need a new friend. Enjoy!*
 
 Here are some useful links:
 
