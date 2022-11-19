@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: Welcome
-hero_media: hero-academic.png
+hero_media: image.png
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
