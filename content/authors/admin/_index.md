@@ -87,4 +87,4 @@ Previously, I completed a second Master's degree at the African Institute for Ma
 
 I did my first Master's degree at the University of Lubumbashi (DR Congo) in electrical engineering where I worked on the optimal control of photovoltaic panels with automatic orientation and maximum power point tracking.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
