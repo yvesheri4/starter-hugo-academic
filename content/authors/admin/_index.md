@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yves K. Heri
+title: Yves Heri
 
 # Full name (for SEO)
 first_name: Yves
