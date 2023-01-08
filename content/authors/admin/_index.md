@@ -85,6 +85,6 @@ Graduate student at Michigan State University, interested in modeling and comput
 
 Previously, I completed a second Master's degree at the African Institute for Mathematical Sciences in Rwanda, working on the application of machine learning in electrical engineering where I developped an electricity loss assessment and mitigation framework for the Rwandan Energy Group.
 
-I did my first Master's degree at the University of Lubumbashi in electrical engineering where I worked on the optimal control of photovoltaic panels with automatic orientation and maximum power point tracking.
+I did my first Master's degree at the University of Lubumbashi (DR Congo) in electrical engineering where I worked on the optimal control of photovoltaic panels with automatic orientation and maximum power point tracking.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
