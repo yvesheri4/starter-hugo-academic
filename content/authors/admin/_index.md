@@ -10,7 +10,7 @@ last_name: Heri
 superuser: true
 
 # Role/position/tagline
-role: Phd Student in Electrical and Electronics Engineering
+role: Graduate student in Electrical and Electronics Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
