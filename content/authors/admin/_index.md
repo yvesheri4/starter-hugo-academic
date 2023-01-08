@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate in Electrical and Electronics Engineering (First year) 
+    - course: Graduate student in Electrical and Electronics Engineering (First year) 
       institution: Michigan State University
       year: 
     - course: Master of Science in Mathematical and Data Sciences
@@ -59,13 +59,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/
+    link: https://scholar.google.com/citations?user=sYU3KYIAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/yvesheri4
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/yves-heri-14b151b9
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
