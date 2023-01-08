@@ -14,7 +14,7 @@ role: Phd Student in Electrical and Electronics Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Michagan State University
+  - name: Michigan State University
     url: https://www.egr.msu.edu/~pz/index.html
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,8 +23,8 @@ bio: My research interests include Plasma physics modelling, Statistics and Mach
 # Interests to show in About widget
 interests:
   - Plasma physics
-  - Artificial Intelligence
-  - Computational methods 
+  - Machine learning
+  - Computational methods in physics and engineering
 
 # Education to show in About widget
 education:
@@ -81,8 +81,10 @@ email: 'heriyves at msu.edu'
 highlight_name: true
 ---
 
-PhD Student at Michigan State University, interested in Plasma Dynamics modeling and computational methods
+Graduate student at Michigan State University, interested in modeling and computational methods of plasma dynamics. I am currently working on the numerical evaluation of the classical Child-Langmuir limit for short-pulsed electron beams in planar diodes.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously, I completed a second Master's degree at the African Institute for Mathematical Sciences in Rwanda, working on the application of machine learning in electrical engineering where I developped an electricity loss assessment and mitigation framework for the Rwandan Energy Group.
+
+I did my first Master's degree at the University of Lubumbashi in electrical engineering where I worked on the optimal control of photovoltaic panels with automatic orientation and maximum power point tracking.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
