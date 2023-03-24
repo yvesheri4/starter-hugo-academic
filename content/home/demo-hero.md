@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 8
 title: Welcome (UNDER CONSTRUCTION)
 hero_media: hero_pic.png
 cta:
