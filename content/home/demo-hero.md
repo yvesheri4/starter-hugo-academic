@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Welcome
+title: Welcome (UNDER CONSTRUCTION)
 hero_media: hero_pic.png
 cta:
   label: '*NanoPAth Group at MSU*'
