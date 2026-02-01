@@ -2,11 +2,11 @@
 widget: hero
 headless: true
 weight: 8
-title: Welcome (UNDER CONSTRUCTION)
+title: PhD Researcher in Plasma Physics & Computational Modeling
 hero_media: hero_pic.png
 cta:
-  label: '*NanoPAth Group at MSU*'
-  url: https://www.egr.msu.edu/~pz/
+  label: '*PLASMA, BEAMS, AND INTERFACE SCIENCE GROUP*'
+  url: https://pbi.engin.umich.edu/
 # cta_alt:
 #  label: Ask a question
 #  url: https://discord.gg/z8wNYzb
@@ -22,7 +22,7 @@ design:
 #   css_class: fullscreen
 ---
 
-*Hi! I am Yves, I have broad interest in Plasma Physics, Computer Sciences, History and  Movies. Please don't hesitate to contact me if you need a new friend. Enjoy!*
+*Hi, I’m Yves. My interests center on plasma physics, charged-particle dynamics, and computational modeling, with a strong emphasis on numerical simulation and data-driven methods. I also enjoy computer science, history, and film, which shape how I think about science and storytelling.*
 
 Here are some useful links:
 
