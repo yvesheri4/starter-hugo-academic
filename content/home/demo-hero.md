@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 8
-title: PhD Researcher in Plasma Physics & Computational Modeling
+title: PhD Researcher in Plasma Physics
 hero_media: hero_pic.png
 cta:
   label: '*PLASMA, BEAMS, AND INTERFACE SCIENCE GROUP*'
