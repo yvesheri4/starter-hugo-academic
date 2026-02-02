@@ -30,7 +30,7 @@ experience:
     date_start: '2024-01-01'
     date_end: ''
     description: |2-
-        Conduct research in plasma physics, working on charged-particle dynamics, plasma–surface interactions, and sheath physics.
+        * Conduct research in plasma physics, working on charged-particle dynamics, plasma–surface interactions, and sheath physics.
 
   - title: Graduate Research Assistant
     company: Michigan State University
@@ -40,7 +40,7 @@ experience:
     date_start: '2023-01-01'
     date_end: '2024-12-31'
     description: |2-
-        Performed computational modeling and numerical simulations in electrical and plasma engineering contexts. Developed simulation codes, analyzed numerical data, and contributed to research projects involving charged-particle transport and electromagnetic systems.
+        Performed computational modeling and numerical simulations in electrical and plasma engineering contexts. 
 
 design:
   columns: '2'
