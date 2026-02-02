@@ -25,7 +25,7 @@ experience:
   - title: PhD Researcher
     company: University of Michigan
     company_url: ''
-    company_logo: umich
+    # company_logo: umich
     location: Ann Arbor, MI
     date_start: '2024-01-01'
     date_end: ''
@@ -35,7 +35,7 @@ experience:
   - title: Graduate Research Assistant
     company: Michigan State University
     company_url: ''
-    company_logo: msu
+    # company_logo: msu
     location: East Lansing, MI
     date_start: '2023-01-01'
     date_end: '2024-12-31'
