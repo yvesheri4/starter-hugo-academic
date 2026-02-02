@@ -64,7 +64,7 @@ social:
     link: https://github.com/yvesheri4
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/plasmaheri
+    link: www.linkedin.com/in/plasmaheri
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
