@@ -22,7 +22,7 @@ design:
 #   css_class: fullscreen
 ---
 
-*Hi, I’m Yves. My interests center on plasma physics, charged-particle dynamics, and computational modeling, with a strong emphasis on numerical simulation and data-driven methods. I also enjoy computer science, history, and film, which shape how I think about science and storytelling.*
+*Hi, I’m Yves. My interests center on plasma physics, charged-particle dynamics, and computational modeling, working on numerical simulation and data-driven methods. I also enjoy history, and film, which shape how I think about science and storytelling.*
 
 Here are some useful links:
 
