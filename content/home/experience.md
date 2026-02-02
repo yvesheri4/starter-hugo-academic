@@ -25,12 +25,12 @@ experience:
   - title: PhD Researcher
     company: University of Michigan
     company_url: ''
-    company_logo: umich
+    # company_logo: umich
     location: Ann Arbor, MI
     date_start: '2024-01-01'
     date_end: ''
     description: |2-
-        Conduct research in plasma physics and charged-particle dynamics, with a focus on space-charge-dominated electron beams, plasma–surface interactions, and sheath physics. Develop analytical models and perform fluid and particle-in-cell simulations using Python, MATLAB, and high-performance computing tools.
+        Conduct research in plasma physics, working on charged-particle dynamics, plasma–surface interactions, and sheath physics.
 
   - title: Graduate Research Assistant
     company: Michigan State University
