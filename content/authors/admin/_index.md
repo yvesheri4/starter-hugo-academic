@@ -10,12 +10,12 @@ last_name: Heri
 superuser: true
 
 # Role/position/tagline
-role: Graduate student in Electrical and Electronics Engineering
+role: Graduate Student in Nuclear Engineering and Radiological Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Michigan State University
-    url: https://www.egr.msu.edu/~pz/index.html
+  - name: University Michigan
+    url: https://pbi.engin.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Plasma physics modelling, Statistics and Machine Learning and Computational methods in Engineering.
@@ -29,16 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Graduate student in Electrical and Electronics Engineering (First year) 
+    - course:  Master of Science in Electrical and Electronics Engineering
       institution: Michigan State University
-      year: 
+      year: 2024
     - course: Master of Science in Mathematical and Data Sciences
       institution: African Institute for Mathematical Sciences
       year: 2022
     - course: Master of Science in Electrical Engineering 
       institution: University of Lubumbashi
       year: 2017
-
     - course: Bachelor of Science in Electrical Engineering
       institution: University of Lubumbashi
       year: 2015
@@ -51,12 +50,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/heri_yves
-    label: Follow me on Twitter 
-    display:
-      header: true
+  # - icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/heri_yves
+  #  label: Follow me on Twitter 
+  #  display:
+  #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=sYU3KYIAAAAJ&hl=en
@@ -65,7 +64,7 @@ social:
     link: https://github.com/yvesheri4
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/yves-heri-14b151b9
+    link: linkedin.com/in/plasmaheri
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -81,10 +80,6 @@ email: 'heriyves at msu.edu'
 highlight_name: true
 ---
 
-Graduate student at Michigan State University, interested in modeling and computational methods of plasma dynamics. I am currently working on the numerical evaluation of the classical Child-Langmuir limit for short-pulsed electron beams in planar diodes.
-
-Previously, I completed a second Master's degree at the African Institute for Mathematical Sciences in Rwanda, working on the application of machine learning in electrical engineering where I developped an electricity loss assessment and mitigation framework for the Rwandan Energy Group.
-
-I did my first Master's degree at the University of Lubumbashi (DR Congo) in electrical engineering where I worked on the optimal control of photovoltaic panels with automatic orientation and maximum power point tracking.
+I am a PhD student in Nuclear Engineering and Radiological Sciences at the University of Michigan. My research focuses on plasma physics and the dynamics of space-charge-dominated charged-particle systems, including short-pulse electron beams, plasma–surface interactions, and sheath physics. My work combines analytical modeling with fluid and kinetic simulations to study charged-particle dynamics across a range of plasma and vacuum regimes. My broader scientific interests include numerical methods for plasma modeling, particle-in-cell simulations, and the use of physics-informed and data-driven approaches in computational plasma physics.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
