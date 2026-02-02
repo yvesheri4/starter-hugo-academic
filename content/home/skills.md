@@ -41,6 +41,11 @@ feature:
     icon: atom
     icon_pack: fas
 
+  - name: Numerical Methods for PDEs
+    description: Advanced
+    icon: calculator
+    icon_pack: fas
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
