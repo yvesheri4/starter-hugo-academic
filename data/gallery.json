@@ -1,0 +1,92 @@
+[
+  {
+    "src": "gallery/photo-01.webp",
+    "caption": "Speaking at an AIMS gathering",
+    "width": 1200,
+    "height": 871
+  },
+  {
+    "src": "gallery/photo-02.webp",
+    "caption": "A tree-lined city street",
+    "width": 1200,
+    "height": 872
+  },
+  {
+    "src": "gallery/photo-03.webp",
+    "caption": "At the University of Michigan",
+    "width": 897,
+    "height": 1200
+  },
+  {
+    "src": "gallery/photo-04.webp",
+    "caption": "At a research poster session",
+    "width": 1025,
+    "height": 1200
+  },
+  {
+    "src": "gallery/photo-05.webp",
+    "caption": "Inside a food market",
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "src": "gallery/photo-06.webp",
+    "caption": "Mountain views from a terrace",
+    "width": 1200,
+    "height": 858
+  },
+  {
+    "src": "gallery/photo-07.webp",
+    "caption": "A meal during a trip",
+    "width": 1200,
+    "height": 898
+  },
+  {
+    "src": "gallery/photo-08.webp",
+    "caption": "Around the table",
+    "width": 1200,
+    "height": 874
+  },
+  {
+    "src": "gallery/photo-09.webp",
+    "caption": "Among the library shelves",
+    "width": 1200,
+    "height": 1128
+  },
+  {
+    "src": "gallery/photo-10.webp",
+    "caption": "Library architecture",
+    "width": 1200,
+    "height": 723
+  },
+  {
+    "src": "gallery/photo-11.webp",
+    "caption": "A conversation over a meal",
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "src": "gallery/photo-12.webp",
+    "caption": "A campus walk",
+    "width": 959,
+    "height": 1200
+  },
+  {
+    "src": "gallery/photo-13.webp",
+    "caption": "At the piano",
+    "width": 622,
+    "height": 771
+  },
+  {
+    "src": "gallery/photo-14.webp",
+    "caption": "A mountain overlook",
+    "width": 768,
+    "height": 739
+  },
+  {
+    "src": "gallery/photo-15.webp",
+    "caption": "At a conference",
+    "width": 768,
+    "height": 828
+  }
+]

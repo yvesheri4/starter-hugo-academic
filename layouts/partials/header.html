@@ -1,0 +1,2 @@
+<a class="skip" href="#main">Skip to content</a>
+<header class="header"><a class="brand" href="{{ "/" | relURL }}" aria-label="Yves Heri home">yh<span>.</span></a><nav aria-label="Main navigation">{{ $current := . }}{{ range .Site.Menus.main }}<a href="{{ .URL | relURL }}" {{ if or (and $current.IsHome (eq .URL "/")) (and (not $current.IsHome) (hasPrefix $current.RelPermalink .URL) (ne .URL "/")) }}aria-current="page"{{ end }}>{{ .Name }}</a>{{ end }}</nav><a class="nav-cv" href="{{ "uploads/resume.pdf" | relURL }}">CV <span aria-hidden="true">↗</span></a></header>

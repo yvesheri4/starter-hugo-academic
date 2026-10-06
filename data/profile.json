@@ -1,0 +1,289 @@
+{
+  "research": [
+    {
+      "number": "01",
+      "title": "Ultrafast electron beams",
+      "text": "I study short-pulse electron transport in vacuum and plasma, focusing on how space charge drives pulse broadening, energy spread, and phase-space distortion. My interests extend to beam–plasma acceleration in high-energy-density regimes.",
+      "tags": [
+        "Space-charge effects",
+        "Beam–plasma dynamics"
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Sheaths & surfaces",
+      "text": "I model emission-driven plasma sheaths using fluid and kinetic approaches, including inverse sheath formation and the redistribution of particle fluxes at material interfaces relevant to fusion devices.",
+      "tags": [
+        "Inverse sheaths",
+        "Plasma–surface interactions"
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Computational plasma physics",
+      "text": "I develop and use fluid and kinetic plasma solvers to connect physical models with predictive simulations. My interests include numerical methods and machine learning for reduced-order models of low-temperature and high-energy-density plasmas.",
+      "tags": [
+        "Fluid & kinetic solvers",
+        "Data-driven modeling"
+      ]
+    }
+  ],
+  "talks": [
+    {
+      "year": "2024",
+      "title": "SCL Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
+      "venue": "25th IEEE International Vacuum Electronics Conference",
+      "type": "Poster · April 2024"
+    },
+    {
+      "year": "2023",
+      "title": "Space Charge Effects on the Evolution of Short Pulse Beam Profiles",
+      "venue": "76th Gaseous Electronics Conference",
+      "type": "Poster · October 2023"
+    },
+    {
+      "year": "2023",
+      "title": "Space charge effects on the evolution of short pulse beam profiles",
+      "venue": "50th IEEE International Conference on Plasma Science",
+      "type": "Poster · May 2023"
+    }
+  ],
+  "education": [
+    {
+      "year": "2025–present",
+      "degree": "PhD student · Nuclear Engineering & Radiological Sciences",
+      "school": "University of Michigan",
+      "detail": "Plasma, Beams, and Interface Science Group · Advisor: Prof. Peng Zhang"
+    },
+    {
+      "year": "2022–2024",
+      "degree": "MS · Electrical and Computer Engineering",
+      "school": "Michigan State University",
+      "detail": "Graduate research assistant"
+    },
+    {
+      "year": "2021–2022",
+      "degree": "MS · Mathematical Sciences",
+      "school": "African Institute for Mathematical Sciences, Rwanda",
+      "detail": ""
+    },
+    {
+      "year": "2015–2017",
+      "degree": "MS · Electrical Engineering",
+      "school": "University of Lubumbashi",
+      "detail": ""
+    },
+    {
+      "year": "2012–2015",
+      "degree": "BS · Electrical Engineering",
+      "school": "University of Lubumbashi",
+      "detail": ""
+    }
+  ],
+  "awards": [
+    {
+      "year": "2026",
+      "title": "Alpha Nu Sigma National Honor Society",
+      "detail": "Inductee · University of Michigan Student Section"
+    },
+    {
+      "year": "2023",
+      "title": "Best Presentation Award",
+      "detail": "14th MIPSE Graduate Symposium"
+    },
+    {
+      "year": "2022",
+      "title": "AIMS Rwanda Excellence Award",
+      "detail": "Best student performance"
+    },
+    {
+      "year": "2022",
+      "title": "MasterCard Foundation Scholar",
+      "detail": "African Institute for Mathematical Sciences"
+    }
+  ],
+  "publication_groups": [
+    {
+      "title": "Journal articles",
+      "items": [
+        {
+          "title": "Space Charge Effects on Short-Pulse Beam Dynamics in a Drift Space",
+          "url": "https://doi.org/10.1109/TED.2026.3670804",
+          "authors": "Y Heri, P Zhang",
+          "venue": "IEEE Transactions on Electron Devices",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:Y0pCki6q_DkC",
+          "link_label": "Read publication",
+          "doi": "10.1109/TED.2026.3670804"
+        },
+        {
+          "title": "PASCHEN-1D: A one-dimensional fluid plasma solver with multi-mechanism surface emission and flexible external circuit coupling",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:eQOLeE2rZwMC",
+          "authors": "A Iqbal, Y Heri, B Wang, L Jin, MA Faisal, P Zhang",
+          "venue": "Computer Physics Communications 329, 110404",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:eQOLeE2rZwMC",
+          "link_label": "View record",
+          "note": "Journal record: volume 329, article 110404 (December 2026 issue). Open preprint available.",
+          "preprint": "https://arxiv.org/abs/2608.07721"
+        },
+        {
+          "title": "Space charge effects on short-pulse electron beam dynamics in a classical vacuum diode",
+          "url": "https://doi.org/10.1109/TED.2025.3552061",
+          "authors": "Y Heri, P Zhang",
+          "venue": "IEEE Transactions on Electron Devices 72 (5), 2591-2596",
+          "year": "2025",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:IjCSPb-OGe4C",
+          "link_label": "Read publication",
+          "doi": "10.1109/TED.2025.3552061"
+        },
+        {
+          "title": "Modélisation d’un réseau de distribution BT avec câbles préassemblés en Aluminium",
+          "url": "https://doi.org/10.21494/ISTE.OP.2020.0545",
+          "authors": "Y Heri",
+          "venue": "Incertitudes et fiabilité des systèmes multiphysiques · ISTE OpenScience",
+          "year": "2020",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:2osOgNQ5qMEC",
+          "link_label": "Read publication",
+          "doi": "10.21494/ISTE.OP.2020.0545"
+        }
+      ]
+    },
+    {
+      "title": "Preprints",
+      "items": [
+        {
+          "title": "Solution to an unsolved problem in diodes: Limiting current for small emission area and low emission energy",
+          "url": "https://arxiv.org/abs/2607.24590",
+          "authors": "YY Lau, DP Chernin, Y Heri, P Zhang",
+          "venue": "arXiv:2607.24590 · Preprint",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:YsMSGLbcyi4C",
+          "link_label": "Read preprint"
+        }
+      ]
+    },
+    {
+      "title": "Conference papers & abstracts",
+      "items": [
+        {
+          "title": "Fluid Simulation of the Inverse Sheath at an Electron-Emitting Surface",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:_FxGoFyzp5QC",
+          "authors": "Y Heri, B Wang, P Zhang",
+          "venue": "2026 IEEE International Conference on Plasma Science (ICOPS), 59-59",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:_FxGoFyzp5QC",
+          "link_label": "View record"
+        },
+        {
+          "title": "Lagrangian Modeling of Short-Pulse Space-Charge-Dominated Electron Beams",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:ufrVoPGSRksC",
+          "authors": "Y Heri, P Zhang",
+          "venue": "2026 IEEE International Conference on Plasma Science (ICOPS), 217-217",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:ufrVoPGSRksC",
+          "link_label": "View record"
+        },
+        {
+          "title": "PASCHEN-1D: A One-Dimensional Time-Dependent Plasma-Circuit Solver with Self-Consistent Multi-Mechanism Surface Emission",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:WF5omc3nYNoC",
+          "authors": "A Iqbal, B Wang, MA Faisal, Y Heri, L Jin, P Zhang",
+          "venue": "2026 IEEE International Conference on Plasma Science (ICOPS), 66-66",
+          "year": "2026",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:WF5omc3nYNoC",
+          "link_label": "View record"
+        },
+        {
+          "title": "Space Charge Effects on Short-Pulse Electron Beam Dynamics",
+          "url": "https://doi.org/10.1109/IVNC65669.2025.11120901",
+          "authors": "Y Heri, P Zhang",
+          "venue": "2025 38th International Vacuum Nanoelectronics Conference (IVNC), 1-2",
+          "year": "2025",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:Tyk-4Ss8FVUC",
+          "link_label": "Read publication",
+          "doi": "10.1109/IVNC65669.2025.11120901"
+        },
+        {
+          "title": "Space Charge Limited Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
+          "url": "https://doi.org/10.1109/IVECIVESC60838.2024.10694914",
+          "authors": "Y Heri, P Zhang",
+          "venue": "2024 Joint International Vacuum Electronics Conference and International Vacuum Electron Sources Conference (IVEC + IVESC)",
+          "year": "2024",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:qjMakFHDy7sC",
+          "link_label": "Read publication",
+          "doi": "10.1109/IVECIVESC60838.2024.10694914"
+        },
+        {
+          "title": "Space charge effects on the short pulse beam profile",
+          "url": "https://doi.org/10.1109/ICOPS45740.2023.10480963",
+          "authors": "YK Heri, P Zhang",
+          "venue": "2023 IEEE International Conference on Plasma Science (ICOPS), 1-1",
+          "year": "2023",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:zYLM7Y9cAGgC",
+          "link_label": "Read publication",
+          "doi": "10.1109/ICOPS45740.2023.10480963"
+        },
+        {
+          "title": "Space Charge Effects on Short-Pulse Beam Dynamics in Vacuum Diodes",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:UeHWp8X0CEIC",
+          "authors": "Y Heri, P Zhang",
+          "venue": "APS Annual Gaseous Electronics Meeting Abstracts, IT4. 006",
+          "year": "2023",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:UeHWp8X0CEIC",
+          "link_label": "View record"
+        },
+        {
+          "title": "Price dynamics for Net electric energy metering on a distribution network: Ising's model approach",
+          "url": "https://doi.org/10.1109/PowerAfrica52236.2021.9543305",
+          "authors": "Y Heri, BWB Bonaventure",
+          "venue": "2021 IEEE PES/IAS PowerAfrica, 1-5",
+          "year": "2021",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:u-x6o8ySG0sC",
+          "link_label": "Read publication",
+          "doi": "10.1109/PowerAfrica52236.2021.9543305"
+        }
+      ]
+    },
+    {
+      "title": "Thesis & earlier work",
+      "items": [
+        {
+          "title": "Data Analytics to Identify Electricity Theft",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:W7OEmFMy1HYC",
+          "authors": "YK HERI",
+          "venue": "Master’s research · AIMS Rwanda",
+          "year": "2022",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:W7OEmFMy1HYC",
+          "link_label": "View record"
+        },
+        {
+          "title": "Dynamique du prix de l’énergie sur un réseau de distribution: Approche par modèle de Ising",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:9yKSN-GCB0IC",
+          "authors": "Y Heri",
+          "venue": "Earlier work · Google Scholar record",
+          "year": "2020",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:9yKSN-GCB0IC",
+          "link_label": "View record"
+        },
+        {
+          "title": "Conception et réalisation d'un système de commande à distance dans une cabine MT/BT",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:u5HHmVD_uO8C",
+          "authors": "Y Heri, M Yav",
+          "venue": "Earlier work · Google Scholar record",
+          "year": "2020",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:u5HHmVD_uO8C",
+          "link_label": "View record"
+        },
+        {
+          "title": "Impact de l'injection des productions PV décentralisées dans le réseau BT de Lubumbashi",
+          "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:d1gkVwhDpl0C",
+          "authors": "Y Heri, M Nguz",
+          "venue": "Earlier work · Google Scholar record",
+          "year": "2020",
+          "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:d1gkVwhDpl0C",
+          "link_label": "View record"
+        }
+      ]
+    }
+  ]
+}

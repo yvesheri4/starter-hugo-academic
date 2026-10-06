@@ -1,75 +1,13 @@
-# Configuration of Hugo
-# Guide: https://wowchemy.com/docs/getting-started/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: Welcome # Website name
-baseURL: 'https://www.yves-heri.com/' # Website URL
-
-############################
-## LANGUAGE
-############################
-
+title: Yves Heri | Plasma Physics & Computational Research
+baseURL: 'https://www.yves-heri.com/'
+languageCode: en-us
 defaultContentLanguage: en
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
-
-############################
-## MODULES
-############################
-
-module:
-  imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
-
-############################
-## ADVANCED
-############################
-
-enableGitInfo: false
-summaryLength: 30
-paginate: 10
-enableEmoji: true
+contentDir: profile
+publishDir: public
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-permalinks:
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
-disableAliases: true
+disableKinds: [taxonomy, term]
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML]
   section: [HTML, RSS]
-imaging:
-  resampleFilter: lanczos
-  quality: 75
-  anchor: smart
-timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  publication_type: publication_types
-  author: authors
-markup:
-  _merge: deep
-related:
-  threshold: 80
-  includeNewer: true
-  toLower: true
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 70
-security:
-  _merge: deep
-sitemap:
-  _merge: deep
-minify:
-  _merge: deep
+params:
+  description: 'Yves Heri is a PhD researcher at the University of Michigan studying charged-particle beams, plasma physics, and computational modeling.'
