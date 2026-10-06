@@ -1,0 +1,17 @@
+/posts /post/ 301
+/projects /project/ 301
+/talks /talk/ 301
+/publications /publication/ 301
+/event/* /talk/ 301
+/authors/* /about/ 301
+/author/* /about/ 301
+/project/example/ /project/ 301
+/project/external-project/ /project/ 301
+/talk/example/ /talk/ 301
+/publication/preprint/ /publication/ 301
+/publication/conference-paper/ /publication/ 301
+/publication/journal-article/ /publication/ 301
+/post/getting-started/ /post/ 301
+/post/writing-technical-content/ /post/ 301
+/post/jupyter/ /post/ 301
+/slides/example/ /talk/ 301

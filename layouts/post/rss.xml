@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Yves Heri — Posts</title><link>{{ .Permalink }}</link><description>Notes on research, scientific computing, and curiosity.</description><language>en-us</language>{{ range .RegularPages.ByDate.Reverse }}<item><title>{{ .Title }}</title><link>{{ .Permalink }}</link><guid>{{ .Permalink }}</guid><pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate><description>{{ .Description }}</description></item>{{ end }}</channel></rss>
