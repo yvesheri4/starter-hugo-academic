@@ -1,0 +1,75 @@
+{
+  "seed": 42,
+  "domain": {
+    "length": 12.566370614359172,
+    "cells": 128,
+    "field_boundary": "periodic",
+    "particle_boundary": "periodic"
+  },
+  "time": {
+    "dt": 0.025,
+    "end": 40,
+    "diagnostic_interval": 0.1
+  },
+  "background_charge_density": 1,
+  "populations": [
+    {
+      "name": "right_beam",
+      "charge": -1,
+      "mass": 1,
+      "density": 0.5,
+      "particles": 16384,
+      "initial": {
+        "position": {
+          "sampling": "quiet",
+          "density_mode": {
+            "amplitude": 0.01,
+            "mode": 1,
+            "phase": 0
+          }
+        },
+        "velocity": {
+          "distribution": "maxwellian",
+          "drift": 1,
+          "thermal_speed": 0.05,
+          "sampling": "random"
+        }
+      }
+    },
+    {
+      "name": "left_beam",
+      "charge": -1,
+      "mass": 1,
+      "density": 0.5,
+      "particles": 16384,
+      "initial": {
+        "position": {
+          "sampling": "quiet",
+          "density_mode": {
+            "amplitude": 0.01,
+            "mode": 1,
+            "phase": 0
+          }
+        },
+        "velocity": {
+          "distribution": "maxwellian",
+          "drift": -1,
+          "thermal_speed": 0.05,
+          "sampling": "random"
+        }
+      }
+    }
+  ],
+  "output": {
+    "directory": "../results/general_two_stream",
+    "save_interval": 0.2,
+    "particle_dump": "sample",
+    "display_particles": 10000
+  },
+  "phase_space": {
+    "position_bins": 128,
+    "velocity_bins": 256,
+    "velocity_min": -4,
+    "velocity_max": 4
+  }
+}

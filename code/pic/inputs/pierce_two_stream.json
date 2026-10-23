@@ -1,0 +1,92 @@
+{
+  "seed": 42,
+  "domain": {
+    "length": 9,
+    "cells": 288,
+    "field_boundary": "dirichlet",
+    "particle_boundary": {
+      "left": "absorbing",
+      "right": "absorbing"
+    }
+  },
+  "time": {
+    "dt": 0.005,
+    "end": 100,
+    "diagnostic_interval": 0.5
+  },
+  "background_charge_density": 1,
+  "populations": [
+    {
+      "name": "right_beam",
+      "charge": -1,
+      "mass": 1,
+      "density": 0.5,
+      "particles": 16384,
+      "initial": {
+        "position": {
+          "sampling": "quiet"
+        },
+        "velocity": {
+          "distribution": "cold",
+          "drift": 1,
+          "thermal_speed": 0,
+          "sampling": "random",
+          "perturbation": {
+            "amplitude": -0.01,
+            "mode": 0.5,
+            "phase": 0
+          }
+        }
+      },
+      "sources": [
+        {
+          "boundary": "left",
+          "number_flux": 0.5,
+          "velocity": 1
+        }
+      ]
+    },
+    {
+      "name": "left_beam",
+      "charge": -1,
+      "mass": 1,
+      "density": 0.5,
+      "particles": 16384,
+      "initial": {
+        "position": {
+          "sampling": "quiet"
+        },
+        "velocity": {
+          "distribution": "cold",
+          "drift": -1,
+          "thermal_speed": 0,
+          "sampling": "random",
+          "perturbation": {
+            "amplitude": 0.01,
+            "mode": 0.5,
+            "phase": 0
+          }
+        }
+      },
+      "sources": [
+        {
+          "boundary": "right",
+          "number_flux": 0.5,
+          "velocity": -1
+        }
+      ]
+    }
+  ],
+  "output": {
+    "directory": "../results/general_pierce_two_stream",
+    "save_interval": 0.5,
+    "particle_dump": "sample",
+    "display_particles": 10000
+  },
+  "phase_space": {
+    "position_bins": 128,
+    "velocity_bins": 256,
+    "velocity_min": -4,
+    "velocity_max": 4
+  }
+}

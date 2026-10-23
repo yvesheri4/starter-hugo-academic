@@ -1,0 +1,53 @@
+{
+  "seed": 42,
+  "domain": {
+    "length": 12.566370614359172,
+    "cells": 128,
+    "field_boundary": "periodic",
+    "particle_boundary": "periodic"
+  },
+  "time": {
+    "dt": 0.025,
+    "end": 20,
+    "diagnostic_interval": 0.1
+  },
+  "background_charge_density": 1,
+  "populations": [
+    {
+      "name": "electrons",
+      "charge": -1,
+      "mass": 1,
+      "density": 1,
+      "particles": 262144,
+      "initial": {
+        "position": {
+          "sampling": "lattice",
+          "spatial_points": 128,
+          "density_mode": {
+            "amplitude": 0.01,
+            "mode": 1,
+            "phase": 0
+          }
+        },
+        "velocity": {
+          "distribution": "maxwellian",
+          "drift": 0,
+          "thermal_speed": 1,
+          "sampling": "quiet"
+        }
+      }
+    }
+  ],
+  "output": {
+    "directory": "../results/general_landau",
+    "save_interval": 0.1,
+    "particle_dump": "sample",
+    "display_particles": 10000
+  },
+  "phase_space": {
+    "position_bins": 128,
+    "velocity_bins": 256,
+    "velocity_min": -5,
+    "velocity_max": 5
+  }
+}

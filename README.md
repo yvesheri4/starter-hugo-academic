@@ -50,3 +50,7 @@ Create a draft with `hugo new post/my-post/index.md`. Edit the Markdown file und
 Project and talk pages use Markdown with JSON front matter (also supported by Hugo). Talk dates with only a known month use the first day internally for sorting; the page displays only the known month and year. Do not infer presentation roles from coauthorship of conference records.
 
 The gallery retains the original 15 photos, with descriptive captions and optimized WebP copies. Original assets and legacy Wowchemy content are preserved in the repository. All text files and JSON imports must be read and written explicitly as UTF-8.
+
+## Codes
+
+`profile/codes/index.md` presents the PIC source, results, and media. The standalone Python package is in `code/pic/`; its README explains reproduction. The downloadable ZIP mirrors that folder (excluding Python caches). Media in `static/media/pic/` comes from the full two-stream run. To update the ZIP after editing code, archive the `pic` folder excluding caches and generated HDF5 files.
