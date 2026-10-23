@@ -114,7 +114,16 @@
           "year": "2026",
           "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:Y0pCki6q_DkC",
           "link_label": "Read publication",
-          "doi": "10.1109/TED.2026.3670804"
+          "doi": "10.1109/TED.2026.3670804",
+          "figure": {
+            "src": "/media/publications/drift.png",
+            "alt": "Electron trajectories below and above the space-charge limit, for three pulse shapes.",
+            "caption": "Electron trajectories below and above the space-charge limit, for three pulse shapes.",
+            "credit": "Fig. 2 · author proof",
+            "source_url": "https://doi.org/10.1109/TED.2026.3670804",
+            "width": 824,
+            "height": 592
+          }
         },
         {
           "title": "PASCHEN-1D: A one-dimensional fluid plasma solver with multi-mechanism surface emission and flexible external circuit coupling",
@@ -125,7 +134,16 @@
           "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:eQOLeE2rZwMC",
           "link_label": "View record",
           "note": "Journal record: volume 329, article 110404 (December 2026 issue). Open preprint available.",
-          "preprint": "https://arxiv.org/abs/2608.07721"
+          "preprint": "https://arxiv.org/abs/2608.07721",
+          "figure": {
+            "src": "/media/publications/paschen.png",
+            "alt": "Argon discharge: the transition from pre-breakdown through Townsend to glow regimes.",
+            "caption": "Argon discharge: the transition from pre-breakdown through Townsend to glow regimes.",
+            "credit": "Fig. 4 · open preprint",
+            "source_url": "https://arxiv.org/abs/2608.07721",
+            "width": 1556,
+            "height": 652
+          }
         },
         {
           "title": "Space charge effects on short-pulse electron beam dynamics in a classical vacuum diode",
@@ -135,7 +153,16 @@
           "year": "2025",
           "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:IjCSPb-OGe4C",
           "link_label": "Read publication",
-          "doi": "10.1109/TED.2025.3552061"
+          "doi": "10.1109/TED.2025.3552061",
+          "figure": {
+            "src": "/media/publications/diode.png",
+            "alt": "Pulse profiles and velocities evolving across a vacuum diode, with PIC comparisons.",
+            "caption": "Pulse profiles and velocities evolving across a vacuum diode, with PIC comparisons.",
+            "credit": "Fig. 4 · IEEE, 2025",
+            "source_url": "https://doi.org/10.1109/TED.2025.3552061",
+            "width": 840,
+            "height": 576
+          }
         },
         {
           "title": "Modélisation d’un réseau de distribution BT avec câbles préassemblés en Aluminium",
@@ -145,7 +172,16 @@
           "year": "2020",
           "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:2osOgNQ5qMEC",
           "link_label": "Read publication",
-          "doi": "10.21494/ISTE.OP.2020.0545"
+          "doi": "10.21494/ISTE.OP.2020.0545",
+          "figure": {
+            "src": "/media/publications/aluminium.png",
+            "alt": "Tensions aux charges du réseau : comparaison des trois phases et des quatre maisons.",
+            "caption": "Tensions aux charges du réseau : comparaison des trois phases et des quatre maisons.",
+            "credit": "Figure 6 (tensions) · ISTE OpenScience, 2020",
+            "source_url": "https://openscience.fr/IMG/pdf/iste_incertfia20v4n1_1.pdf",
+            "width": 998,
+            "height": 636
+          }
         }
       ]
     },
@@ -159,7 +195,16 @@
           "venue": "arXiv:2607.24590 · Preprint",
           "year": "2026",
           "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=sYU3KYIAAAAJ&pagesize=100&citation_for_view=sYU3KYIAAAAJ:YsMSGLbcyi4C",
-          "link_label": "Read preprint"
+          "link_label": "Read preprint",
+          "figure": {
+            "src": "/media/publications/limiting.png",
+            "alt": "Limiting-current predictions from scaling laws, POISSON, and XOOPIC across emission widths.",
+            "caption": "Limiting-current predictions from scaling laws, POISSON, and XOOPIC across emission widths.",
+            "credit": "Fig. 2 · preprint v2",
+            "source_url": "https://arxiv.org/abs/2607.24590v2",
+            "width": 1584,
+            "height": 1582
+          }
         }
       ]
     },
