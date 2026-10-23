@@ -1,0 +1,33 @@
+{
+  "landau": {
+    "final_time": 20.0,
+    "initial_particles": 262144,
+    "final_particles": 262144,
+    "maximum_particle_balance_error": 0.0
+  },
+  "pierce_single": {
+    "final_time": 100.0,
+    "initial_particles": 32768,
+    "final_particles": 35976,
+    "maximum_particle_balance_error": 0.0
+  },
+  "pierce_two_stream": {
+    "final_time": 100.0,
+    "initial_particles": 32768,
+    "final_particles": 39086,
+    "maximum_particle_balance_error": 0.0
+  },
+  "reflecting_plasma": {
+    "final_time": 10.0,
+    "initial_particles": 16384,
+    "final_particles": 16384,
+    "maximum_particle_balance_error": 0.0
+  },
+  "two_stream": {
+    "final_time": 40.0,
+    "initial_particles": 32768,
+    "final_particles": 32768,
+    "maximum_particle_balance_error": 0.0,
+    "max_relative_total_energy_change": 3.392376482680426e-05
+  }
+}
