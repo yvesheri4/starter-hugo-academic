@@ -53,4 +53,6 @@ The gallery retains the original 15 photos, with descriptive captions and optimi
 
 ## Codes
 
-`profile/codes/index.md` presents the PIC source, results, and media. The standalone Python package is in `code/pic/`; its README explains reproduction. The downloadable ZIP mirrors that folder (excluding Python caches). Media in `static/media/pic/` comes from the full two-stream run. To update the ZIP after editing code, archive the `pic` folder excluding caches and generated HDF5 files.
+`profile/codes/_index.md` presents the PIC source, results, and media. The standalone Python package is in `code/pic/`; its README explains reproduction. The downloadable ZIP mirrors that folder (excluding Python caches). Media in `static/media/pic/` comes from the full two-stream run. To update the ZIP after editing code, archive the `pic` folder excluding caches and generated HDF5 files.
+
+The Multiple-sheet page is `profile/codes/multiple-sheet/index.md`, with source and reproducible results in `code/multiple-sheet/`. The code download is `static/downloads/multiple-sheet.zip`. Preserve the distinction between archived comparison data and newly generated demonstrations when updating this content.

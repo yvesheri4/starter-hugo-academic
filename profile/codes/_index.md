@@ -2,7 +2,15 @@
 title: Codes
 description: Scientific code, animations, and numerical results.
 type: codes
-date: 2026-10-22
+date: 2026-10-25
+---
+
+## Multiple-sheet model
+
+Follow short electron pulses through a drift space with a compact Python model. Explore square-top, trapezoidal, and Gaussian trajectories, archived current-limit comparisons, and downloadable code and data.
+
+[Explore the Multiple-sheet model →](/codes/multiple-sheet/)
+
 ---
 
 ## Electrostatic particle-in-cell

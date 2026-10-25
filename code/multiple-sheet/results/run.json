@@ -1,0 +1,28 @@
+{
+  "sheets": 80,
+  "time_samples": 1200,
+  "end_time": 4,
+  "pulse_duration_parameter": 0.1,
+  "charge_fraction_of_archived_limit": 0.5,
+  "profiles": [
+    {
+      "profile": "Square-top",
+      "total_normalized_sheet_charge": 0.41250000000000003,
+      "minimum_saved_velocity": 0.0,
+      "sheets_reaching_anode": 80
+    },
+    {
+      "profile": "Trapezoidal",
+      "total_normalized_sheet_charge": 0.4125,
+      "minimum_saved_velocity": 0.0,
+      "sheets_reaching_anode": 80
+    },
+    {
+      "profile": "Gaussian",
+      "total_normalized_sheet_charge": 0.4425,
+      "minimum_saved_velocity": 0.0,
+      "sheets_reaching_anode": 80
+    }
+  ],
+  "note": "Illustrative rerun of the archived numerical core; not a convergence study or a claim to regenerate the published figures exactly."
+}
