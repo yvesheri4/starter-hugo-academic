@@ -1,5 +1,5 @@
 {
-  "title": "SCL Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
+  "title": "Space Charge Limited Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
   "description": "25th IEEE International Vacuum Electronics Conference",
   "venue": "25th IEEE International Vacuum Electronics Conference",
   "category": "Poster presentation",
@@ -10,7 +10,7 @@
 
 ## Presentation
 
-SCL Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes
+Space Charge Limited Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes
 
 Presented as a poster at the 25th IEEE International Vacuum Electronics Conference, April 2024.
 
