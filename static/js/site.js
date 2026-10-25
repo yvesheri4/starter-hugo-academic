@@ -18,7 +18,7 @@ document.querySelectorAll('[data-animation]').forEach(button => {
   button.addEventListener('click', () => {
     const playing = button.getAttribute('aria-pressed') !== 'true';
     img.src = playing ? button.dataset.animation : button.dataset.poster;
-    img.alt = playing ? 'Animated two-stream number distribution from normalized time 0 to 40' : 'Two-stream number distribution at normalized time 40';
+    img.alt = playing ? (button.dataset.animationAlt || 'Animated two-stream number distribution from normalized time 0 to 40') : (button.dataset.posterAlt || 'Two-stream number distribution at normalized time 40');
     button.setAttribute('aria-pressed', String(playing));
     button.textContent = playing ? 'Stop animation' : 'Play animation';
   });

@@ -43,3 +43,7 @@ Optimize driving-voltage waveforms and gas pressure, and compare characterized e
 This direction builds on my contributions to PASCHEN-1D and my studies of short-pulse electron transport and emission. Independent numerical comparisons and uncertainty analysis are central to the proposed approach.
 
 Planned outputs include reproducible solver and gradient benchmarks, parameter-recovery studies, and verified design comparisons. My currently available [codes and results](/codes/) cover particle-in-cell and multiple-sheet examples.
+
+## A small working example
+
+The [Langmuir oscillations example](/codes/langmuir-jax/) demonstrates density inference through a differentiable JAX fluid solver, with analytical and gradient checks. It is a compact educational example; the discharge solver and broader research aims above remain proposed work.
