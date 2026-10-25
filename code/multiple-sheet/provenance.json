@@ -1,0 +1,18 @@
+{
+  "source_notebook": "drift_space_021326.ipynb",
+  "source_sha256": "8eb4118b42872baf58c71cc95ffd1c84f3a81f1e2ceeeb11c1884d91b0dc4ca9",
+  "core_cell_indices_zero_based": [
+    5,
+    8,
+    10,
+    12,
+    15
+  ],
+  "comparison_data_cell_indices_zero_based": [
+    35,
+    36,
+    37
+  ],
+  "paper_doi": "10.1109/TED.2026.3670804",
+  "core_changes": "Imports and module docstring only; numerical definitions preserved."
+}
