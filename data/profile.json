@@ -20,18 +20,43 @@
     },
     {
       "number": "03",
-      "title": "Computational plasma physics",
-      "text": "I develop and use fluid and kinetic plasma solvers to connect physical models with predictive simulations. My interests include numerical methods and machine learning for reduced-order models of low-temperature and high-energy-density plasmas.",
+      "title": "Differentiable plasma modeling",
+      "text": "I develop and use fluid and kinetic solvers to connect physical models with simulations. My proposed next direction combines JAX, GPU computing, parameter inference, and neural surrogates for energy-efficient plasma discharge design.",
       "tags": [
-        "Fluid & kinetic solvers",
-        "Data-driven modeling"
-      ]
+        "Differentiable simulation",
+        "Parameter inference"
+      ],
+      "url": "/project/differentiable-plasma/"
     }
   ],
   "talks": [
     {
+      "year": "2026",
+      "title": "Simple Lagrangian Model for Relativistic Electron Pulse Accelerators: Space-Charge Effects in Diode and Drift Regions",
+      "venue": "Computational Physics School for Fusion Research (CPS-FR)",
+      "type": "Poster · August 3–8, 2026"
+    },
+    {
+      "year": "2026",
+      "title": "Fluid Simulation of the Inverse Sheath at an Electron-Emitting Surface",
+      "venue": "IEEE International Conference on Plasma Science (ICOPS)",
+      "type": "Poster · June 22–26, 2026"
+    },
+    {
+      "year": "2026",
+      "title": "Lagrangian Modeling of Short-Pulse Space-Charge-Dominated Electron Beams",
+      "venue": "IEEE International Conference on Plasma Science (ICOPS)",
+      "type": "Oral presentation · June 22–26, 2026"
+    },
+    {
+      "year": "2025",
+      "title": "Space Charge Effects on Short-Pulse Electron Beam Dynamics",
+      "venue": "67th APS Division of Plasma Physics Meeting",
+      "type": "Oral presentation · November 19, 2025"
+    },
+    {
       "year": "2024",
-      "title": "SCL Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
+      "title": "Space Charge Limited Current Scaling for Short-Pulse Beam in a Vacuum Diode with Different Pulse Shapes",
       "venue": "25th IEEE International Vacuum Electronics Conference",
       "type": "Poster · April 2024"
     },
