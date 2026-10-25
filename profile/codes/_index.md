@@ -5,6 +5,14 @@ type: codes
 date: 2026-10-25
 ---
 
+## Langmuir oscillations in JAX
+
+Recover plasma density from a synthetic electric-field measurement by differentiating through a small fluid simulation. Explore an animation, clean and noisy inference, and numerical validation.
+
+[Explore the JAX example →](/codes/langmuir-jax/)
+
+---
+
 ## Multiple-sheet model
 
 Follow short electron pulses through a drift space with a compact Python model. Explore square-top, trapezoidal, and Gaussian trajectories, archived current-limit comparisons, and downloadable code and data.

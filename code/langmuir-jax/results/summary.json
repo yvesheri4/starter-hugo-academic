@@ -1,0 +1,180 @@
+{
+  "model": "Linear cold-electron fluid; fixed ions; periodic 1D",
+  "n_ref_m3": 100000000000000.0,
+  "n_true_m3": 135000000000000.02,
+  "length_m": 0.01,
+  "amplitude": 0.02,
+  "n_grid": 64,
+  "dt_over_omega_ref": 0.025,
+  "steps": 720,
+  "omega_ref_rad_s": 564146022.5429499,
+  "noise_std_fraction_of_peak": 0.03,
+  "seed": 20261025,
+  "observation_count": 181,
+  "initial_density_m3": 100000000000000.0,
+  "fit_bounds_m3": [
+    69999999999999.99,
+    180000000000000.0
+  ],
+  "clean_fit": {
+    "q": 1.3532102653885525,
+    "n_m3": 135321026538855.25,
+    "relative_error": 0.002377974361890578,
+    "loss": 2.2677115658098836e-06,
+    "iterations": 7,
+    "success": true
+  },
+  "noisy_fit": {
+    "q": 1.353091962358083,
+    "n_m3": 135309196235808.3,
+    "relative_error": 0.002290342487468955,
+    "loss": 0.0017758555570198883,
+    "iterations": 7,
+    "success": true
+  },
+  "clean_fit_128": {
+    "q": 1.3508016268558567,
+    "n_m3": 135080162685585.67,
+    "relative_error": 0.0005937976710048698,
+    "loss": 1.4150149009320912e-07,
+    "iterations": 7,
+    "success": true
+  },
+  "validation": {
+    "spatial": [
+      {
+        "n": 16,
+        "relative_rms_field_error": 0.1659053446732085,
+        "omega_over_omega_ref": 1.1395695097577436,
+        "relative_frequency_error": 0.0192147259694464
+      },
+      {
+        "n": 32,
+        "relative_rms_field_error": 0.04225083818095833,
+        "omega_over_omega_ref": 1.1563001552490462,
+        "relative_frequency_error": 0.00481527900075418
+      },
+      {
+        "n": 64,
+        "relative_rms_field_error": 0.010599924080182874,
+        "omega_over_omega_ref": 1.1604954436733288,
+        "relative_frequency_error": 0.00120454962302452
+      },
+      {
+        "n": 128,
+        "relative_rms_field_error": 0.0026521565766077417,
+        "omega_over_omega_ref": 1.1615450559913947,
+        "relative_frequency_error": 0.00030118717239269177
+      }
+    ],
+    "spatial_orders": [
+      1.973308496468939,
+      1.9949260303510736,
+      1.9988160756743367
+    ],
+    "temporal": [
+      {
+        "dt": 0.4,
+        "relative_rms_field_error": 0.0033787161567102497
+      },
+      {
+        "dt": 0.2,
+        "relative_rms_field_error": 0.0002119345126893296
+      },
+      {
+        "dt": 0.1,
+        "relative_rms_field_error": 1.325483877653959e-05
+      },
+      {
+        "dt": 0.05,
+        "relative_rms_field_error": 8.285847480554336e-07
+      }
+    ],
+    "temporal_orders": [
+      3.9947847068333564,
+      3.999027516573319,
+      3.9997260475066465
+    ],
+    "gradients": [
+      {
+        "q": 0.9,
+        "h": 0.001,
+        "autodiff": -0.5926958836453328,
+        "finite_difference": -0.5926909237947697,
+        "relative_error": 8.368289201757731e-06
+      },
+      {
+        "q": 0.9,
+        "h": 0.0001,
+        "autodiff": -0.5926958836453328,
+        "finite_difference": -0.5926958340463084,
+        "relative_error": 8.368376717423444e-08
+      },
+      {
+        "q": 0.9,
+        "h": 1e-05,
+        "autodiff": -0.5926958836453328,
+        "finite_difference": -0.5926958831448115,
+        "relative_error": 8.444824823176219e-10
+      },
+      {
+        "q": 1.1,
+        "h": 0.001,
+        "autodiff": -2.5184957234954486,
+        "finite_difference": -2.5184837190808937,
+        "relative_error": 4.766501861747749e-06
+      },
+      {
+        "q": 1.1,
+        "h": 0.0001,
+        "autodiff": -2.5184957234954486,
+        "finite_difference": -2.5184956034518535,
+        "relative_error": 4.7664800040928956e-08
+      },
+      {
+        "q": 1.1,
+        "h": 1e-05,
+        "autodiff": -2.5184957234954486,
+        "finite_difference": -2.518495722309,
+        "relative_error": 4.710941956268979e-10
+      },
+      {
+        "q": 1.5,
+        "h": 0.001,
+        "autodiff": 2.9808131442343315,
+        "finite_difference": 2.9807946348539005,
+        "relative_error": 6.20950711614442e-06
+      },
+      {
+        "q": 1.5,
+        "h": 0.0001,
+        "autodiff": 2.9808131442343315,
+        "finite_difference": 2.9808129591379906,
+        "relative_error": 6.209592214095838e-08
+      },
+      {
+        "q": 1.5,
+        "h": 1e-05,
+        "autodiff": 2.9808131442343315,
+        "finite_difference": 2.980813142409999,
+        "relative_error": 6.120251745559787e-10
+      }
+    ],
+    "max_relative_energy_drift": 5.962865756714564e-09,
+    "max_mean_density_perturbation": 1.1655173354219173e-18,
+    "equilibrium_error": 0.0,
+    "max_poisson_residual": 2.411265631607762e-15,
+    "all_checks_passed": true
+  },
+  "environment": {
+    "python": "3.12.14",
+    "jax": "0.12.0.1",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "backend": "cpu",
+    "devices": [
+      "cpu:0"
+    ]
+  }
+}
