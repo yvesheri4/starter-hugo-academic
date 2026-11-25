@@ -3,7 +3,9 @@
   "description": "NERS highlights our work on current limits from small emission sites at low electron energies.",
   "date": "2026-11-25",
   "category": "Research news",
-  "symbol": "e⁻"
+  "symbol": "e⁻",
+  "cover_image": "https://ners.engin.umich.edu/wp-content/uploads/sites/9/2026/11/YY-Peng.jpg",
+  "cover_alt": "Electron-sheet diode model and maximum current-density scaling laws, as featured by Michigan NERS"
 }
 
 Michigan NERS has featured our research on how emitter size and initial electron energy determine the maximum current density from small emission sites. The study brings together differential-equation, integral-equation, and particle-in-cell approaches to establish scaling laws beyond the classical one-dimensional Child–Langmuir description.
