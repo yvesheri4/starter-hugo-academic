@@ -37,3 +37,6 @@
 .card-cover.has-image{padding:0;background:#192c3e;justify-content:center;align-items:center}
 .card-cover.has-image:after{display:none}
 .card-cover.has-image img{display:block;width:100%;height:100%;object-fit:contain}
+
+.notebook-home .content-card.with-image{display:block}
+.notebook-home .card-cover.has-image{height:auto;min-height:0;aspect-ratio:720/295}
