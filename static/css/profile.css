@@ -32,3 +32,8 @@
 .hero-portrait{display:block;width:112px;height:112px;margin:0 0 24px;padding:5px;border:1px solid #c7d8ce;border-radius:50%;background:var(--paper);box-shadow:0 5px 18px #142f3510}.hero-portrait img{display:block;width:100%;height:100%;object-fit:cover;object-position:68% 33%;border-radius:50%;transform:scale(1);background:#d8dcd4}.hero-portrait:hover{border-color:var(--teal)}@media(max-width:760px){.hero-portrait{width:92px;height:92px;margin-bottom:20px}}
 
 .portrait-crop{display:block;width:100%;height:100%;overflow:hidden;border-radius:50%}.hero-portrait img{transform:scale(1.65);transform-origin:68% 30%}
+
+/* Preserve the complete scientific illustration on image-backed cards. */
+.card-cover.has-image{padding:0;background:#192c3e;justify-content:center;align-items:center}
+.card-cover.has-image:after{display:none}
+.card-cover.has-image img{display:block;width:100%;height:100%;object-fit:contain}
